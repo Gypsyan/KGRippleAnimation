@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Foundation
 
 public class KGRippleAnimation: UIView {
     
