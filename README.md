@@ -1,5 +1,8 @@
 # KGRippleAnimation
 
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Cocoapods Compatible](https://img.shields.io/badge/KGRippleAnimation-Swift3.0-green.svg)](https://img.shields.io/badge/KGRippleAnimation-Swift3.0-green.svg)
+
 `KGRippleAnimation` is ripple animations for button click.
 
 # Installation
