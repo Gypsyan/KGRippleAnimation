@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "KGRippleAnimation"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Add Ripple action around a button"
   s.homepage     = "https://github.com/Gypsyan/KGRippleAnimation"
   s.license      = 'Apache License, Version 2.0'
